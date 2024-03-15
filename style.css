@@ -1,4 +1,36 @@
-html {
+:root {
+  --black: #2d2e2e;
+  --dark-green: #3a4f39;
+  --grey: #ababab;
+  --light-grey: #f6f6f6;
+  --white: #ffffff;
+  --light-green: #eff6f3;
+  --yellow: #f8d254;
+  --Green:   #a0cd9e
+}
+
+
+
+    
+ 
+
+    
+  
+  
+  
+  
+  html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color:var(--Green)
+}
+
+
+  
+
+
+  
+ 
